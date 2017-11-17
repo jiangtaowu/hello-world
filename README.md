@@ -1,2 +1,4 @@
 # hello-world
-just a try
+
+Hi,python:
+  Life is short, and I learn python!
